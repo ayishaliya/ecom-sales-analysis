@@ -10,11 +10,11 @@ It demonstrates key data science skills:
 
 ## 🗂 Project Structure
 Ecom-sales-analysis/
-|
-|__ data/ #Raw and cleaned datasets
-|__ notebooks/ #Jupyter notebooks for analysis
-|__ reports/ #Generated reports and summaries
-|__ README.md #Project documentation
+│
+├── data/ # Raw and cleaned datasets
+├── notebooks/ # Jupyter notebooks for analysis
+├── reports/ # Generated reports & summaries
+└── README.md # Project documentation
 
 ## 📊 Dataset
 - **Source:** [Kaggle – Online Retail Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail)
