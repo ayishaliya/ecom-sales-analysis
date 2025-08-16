@@ -13,6 +13,7 @@ Ecom-sales-analysis/
 - data/ # Raw and cleaned datasets
 - notebooks/ # Jupyter notebooks for analysis
 - reports/ # Generated reports & summaries
+  - images/ # Generated EDA visualizations
 - README.md # Project documentation
 
 ## 📊 Dataset
@@ -26,5 +27,12 @@ Ecom-sales-analysis/
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
+## 💼 Business Questions Answered
+- What are the *top selling products*?
+- Which are the *top spending countries*?
+- Which are the *sales peaking month and hours*?
+- who are the *top spending customers*?
+
 ## 📈 Progress
-Currently, the project has completed the data cleaning stage with anomalies analysed and removed or flagged as per the type. We have a cleaned dataset, ready for analysis.
+- Data cleaning and anomaly analysis done.
+- EDA visualizations and interpretations for the business questions.
